@@ -1,0 +1,14 @@
+bin\Mobileistic_Ref001_Outbound.exe
+bin\Mobileistic_Ref001_Outbound.pdb
+bin\Mobileistic_Ref001_Outbound.xml
+bin\Interop.SAPbobsCOM.dll
+bin\Interop.SAPbouiCOM.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SAPbobsCOM.dll
+obj\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\Mobileistic-Ref 001_Outbound.vbproj.ResolveComReference.cache
+obj\Debug\Mobileistic_Ref001_Outbound.frmLoginScreen.resources
+obj\Debug\Mobileistic-Ref 001_Outbound.vbproj.GenerateResource.Cache
+obj\Debug\Mobileistic_Ref001_Outbound.exe
+obj\Debug\Mobileistic_Ref001_Outbound.xml
+obj\Debug\Mobileistic_Ref001_Outbound.pdb

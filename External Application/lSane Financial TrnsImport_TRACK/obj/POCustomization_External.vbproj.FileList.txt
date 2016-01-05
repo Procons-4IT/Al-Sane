@@ -1,0 +1,3 @@
+obj\Debug\POCustomization_External.exe
+obj\Debug\POCustomization_External.xml
+obj\Debug\POCustomization_External.pdb

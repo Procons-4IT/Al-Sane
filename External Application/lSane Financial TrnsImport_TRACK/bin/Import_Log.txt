@@ -1,0 +1,339 @@
+11/19/2013 3:31:08 PM---Creating Journal Entries..
+11/19/2013 3:31:11 PM---Journal Ref Number : 16101
+11/19/2013 3:31:44 PM---Journal Ref Number : 16101 Error : Unbalanced Transaction
+11/19/2013 3:31:48 PM---Journal Ref Number : 16102
+11/19/2013 3:31:52 PM---Journal Ref Number : 16103
+11/19/2013 3:31:52 PM---Journal Ref Number : 16104
+11/19/2013 3:31:52 PM---Reading Process Completed: Filename-->SUN&SAP.txt Moved to success folder
+11/19/2013 3:31:52 PM---Import Reading files Process Completed....
+11/19/2013 3:31:52 PM---Document Creation Processing...
+11/19/2013 3:35:07 PM---Creating Journal Entries..
+11/19/2013 3:35:07 PM---Journal Ref Number : 16101
+11/19/2013 3:35:07 PM---Journal Ref Number : 16101 Error : Unbalanced Transaction
+11/19/2013 3:35:07 PM---Journal Ref Number : 16102
+11/19/2013 3:35:07 PM---Journal Ref Number : 16103
+11/19/2013 3:35:07 PM---Journal Ref Number : 16104
+11/19/2013 3:35:07 PM---Import Reading files Process Completed....
+11/19/2013 3:35:07 PM---Document Creation Processing...
+11/19/2013 3:36:06 PM---Creating Journal Entries..
+11/19/2013 3:36:06 PM---Journal Ref Number : 16101
+11/19/2013 3:36:06 PM---Journal Ref Number : 16101 Error : Unbalanced Transaction
+11/19/2013 3:36:06 PM---Journal Ref Number : 16102
+11/19/2013 3:36:06 PM---Journal Ref Number : 16103
+11/19/2013 3:36:06 PM---Journal Ref Number : 16104
+11/19/2013 3:36:06 PM---Import Reading files Process Completed....
+11/19/2013 3:36:06 PM---Document Creation Processing...
+11/19/2013 3:36:32 PM---Creating Journal Entries..
+11/19/2013 3:36:33 PM---Journal Ref Number : 16101
+11/19/2013 3:36:55 PM---Journal Ref Number : 16101 Error : Unbalanced Transaction
+11/19/2013 3:37:10 PM---Journal Ref Number : 16102
+11/19/2013 3:37:10 PM---Journal Ref Number : 16103
+11/19/2013 3:37:10 PM---Journal Ref Number : 16104
+11/19/2013 3:37:10 PM---Import Reading files Process Completed....
+11/19/2013 3:37:10 PM---Document Creation Processing...
+11/19/2013 3:39:42 PM---Creating Journal Entries..
+11/19/2013 3:39:42 PM---Journal Ref Number : 16101
+11/19/2013 3:39:42 PM---Journal Ref Number : 16101 Error : Unbalanced Transaction
+11/19/2013 3:39:42 PM---Journal Ref Number : 16102
+11/19/2013 3:40:03 PM---Import Reading files Process Completed....
+11/19/2013 3:40:03 PM---Document Creation Processing...
+11/19/2013 3:40:41 PM---Creating Journal Entries..
+11/19/2013 3:40:41 PM---Journal Ref Number : 16101
+11/19/2013 3:40:59 PM---Journal Ref Number : 16101 Error : Unbalanced Transaction
+11/19/2013 3:41:05 PM---Journal Ref Number : 16102
+11/19/2013 3:41:12 PM---Error occured during reading files. Please check the file contents and reimport
+11/19/2013 3:41:18 PM---Reading file failed: Filename : SUN&SAP.txt Moved to Error folder
+11/19/2013 3:41:22 PM---Import Reading files Process Completed....
+11/19/2013 3:41:22 PM---Document Creation Processing...
+11/19/2013 3:42:36 PM---Creating Journal Entries..
+11/19/2013 3:42:37 PM---Journal Ref Number : 16105
+11/19/2013 3:43:06 PM---Journal Ref Number : 16105 Error : Unbalanced Transaction
+11/19/2013 3:43:15 PM---Journal Ref Number : 16106
+11/19/2013 3:43:32 PM---Error occured during reading files. Please check the file contents and reimport
+11/19/2013 4:04:44 PM---Creating Journal Entries..
+11/19/2013 4:04:49 PM---Journal Ref Number : 16105
+11/19/2013 4:05:55 PM---Journal Ref Number : 16105 Error : Unbalanced Transaction
+11/19/2013 4:06:00 PM---Journal Ref Number : 16106
+11/19/2013 4:08:47 PM---Journal Ref Number : 16106 Error : Unbalanced Transaction
+11/19/2013 4:08:47 PM---Journel Entry Process failed..
+11/19/2013 4:08:47 PM---Import Reading files Process Completed....
+11/19/2013 4:08:47 PM---Document Creation Processing...
+11/19/2013 4:09:41 PM---Creating Journal Entries..
+11/19/2013 4:09:43 PM---Journal Ref Number : 16105
+11/19/2013 4:10:51 PM---Journal Ref Number : 16105 Error : Unbalanced Transaction
+11/19/2013 4:10:51 PM---Journal Ref Number : 16106
+11/19/2013 4:10:52 PM---Journal Ref Number : 16106 Imported Successfully : JE Ref No : 5
+11/19/2013 4:10:52 PM---Journel Entry Process failed..
+11/19/2013 4:10:52 PM---Import Reading files Process Completed....
+11/19/2013 4:10:52 PM---Document Creation Processing...
+11/19/2013 4:14:27 PM---Creating Journal Entries..
+11/19/2013 4:14:28 PM---Journal Ref Number : 16105
+11/19/2013 4:14:56 PM---Journal Ref Number : 16105 Imported Successfully : JE Ref No : 6
+11/19/2013 4:15:27 PM---Journel Entry Process Completed..
+11/19/2013 4:15:27 PM---Import Reading files Process Completed....
+11/19/2013 4:15:27 PM---Document Creation Processing...
+11/19/2013 4:17:30 PM---Creating Journal Entries..
+11/19/2013 4:17:30 PM---Journal Ref Number : 16105
+11/19/2013 4:17:49 PM---Journal Ref Number : 16105 Imported Successfully : JE Ref No : 6
+11/19/2013 4:17:52 PM---Journal Ref Number : 16106
+11/19/2013 4:18:06 PM---Journal Ref Number : 16106 Imported Successfully : JE Ref No : 7
+11/19/2013 4:18:18 PM---Journel Entry Process Completed..
+11/19/2013 4:18:22 PM---Import Reading files Process Completed....
+11/19/2013 4:18:22 PM---Document Creation Processing...
+11/19/2013 4:26:28 PM---Creating Journal Entries..
+11/19/2013 4:26:28 PM---Journal Ref Number : 16101
+11/19/2013 4:26:28 PM---Journal Ref Number : 16101 Imported Successfully : JE Ref No : 8
+11/19/2013 4:26:28 PM---Journal Ref Number : 16102
+11/19/2013 4:26:28 PM---Journal Ref Number : 16102 Imported Successfully : JE Ref No : 9
+11/19/2013 4:26:28 PM---Journal Ref Number : 16103
+11/19/2013 4:26:29 PM---Journal Ref Number : 16103 Imported Successfully : JE Ref No : 10
+11/19/2013 4:26:29 PM---Journal Ref Number : 16104
+11/19/2013 4:26:29 PM---Journal Ref Number : 16104 Imported Successfully : JE Ref No : 11
+11/19/2013 4:26:29 PM---Journal Ref Number : 16107
+11/19/2013 4:26:29 PM---Journal Ref Number : 16107 Imported Successfully : JE Ref No : 12
+11/19/2013 4:26:29 PM---Journal Ref Number : 16108
+11/19/2013 4:26:29 PM---Journal Ref Number : 16108 Imported Successfully : JE Ref No : 13
+11/19/2013 4:26:29 PM---Journal Ref Number : 16109
+11/19/2013 4:26:29 PM---Journal Ref Number : 16109 Imported Successfully : JE Ref No : 14
+11/19/2013 4:26:29 PM---Journal Ref Number : 16110
+11/19/2013 4:26:29 PM---Journal Ref Number : 16110 Imported Successfully : JE Ref No : 15
+11/19/2013 4:26:29 PM---Journal Ref Number : 16111
+11/19/2013 4:26:29 PM---Journal Ref Number : 16111 Imported Successfully : JE Ref No : 16
+11/19/2013 4:26:29 PM---Journal Ref Number : 16112
+11/19/2013 4:26:29 PM---Journal Ref Number : 16112 Imported Successfully : JE Ref No : 17
+11/19/2013 4:26:29 PM---Journal Ref Number : 16113
+11/19/2013 4:26:29 PM---Journal Ref Number : 16113 Imported Successfully : JE Ref No : 18
+11/19/2013 4:26:29 PM---Journal Ref Number : 16114
+11/19/2013 4:26:29 PM---Journal Ref Number : 16114 Imported Successfully : JE Ref No : 19
+11/19/2013 4:26:29 PM---Journel Entry Process Completed..
+11/19/2013 4:26:29 PM---Import Reading files Process Completed....
+11/19/2013 4:26:29 PM---Document Creation Processing...
+11/19/2013 4:28:13 PM---Creating Journal Entries..
+11/19/2013 4:28:13 PM---Journel Entry Process Completed..
+11/19/2013 4:28:13 PM---Import Reading files Process Completed....
+11/19/2013 4:28:13 PM---Document Creation Processing...
+11/19/2013 4:29:24 PM---Creating Journal Entries..
+11/19/2013 4:29:24 PM---Journel Entry Process Completed..
+11/19/2013 4:29:24 PM---Import Reading files Process Completed....
+11/19/2013 4:29:24 PM---Document Creation Processing...
+11/19/2013 4:32:57 PM---Creating Journal Entries..
+11/19/2013 4:32:59 PM---Journel Entry Process Completed..
+11/19/2013 4:32:59 PM---Import Reading files Process Completed....
+11/19/2013 4:32:59 PM---Document Creation Processing...
+11/19/2013 4:43:46 PM---Creating Journal Entries..
+11/19/2013 4:43:47 PM---Journal Ref Number : 16115
+11/19/2013 4:44:55 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 4:44:55 PM---Journal Ref Number : 16115
+11/19/2013 4:51:28 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 4:51:28 PM---Journel Entry Process failed..
+11/19/2013 4:51:28 PM---Import Reading files Process Completed....
+11/19/2013 4:51:28 PM---Document Creation Processing...
+11/19/2013 4:52:50 PM---Creating Journal Entries..
+11/19/2013 4:52:51 PM---Journal Ref Number : 16115
+11/19/2013 4:53:16 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 4:53:16 PM---Journal Ref Number : 16115
+11/19/2013 4:53:18 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 4:53:18 PM---Journel Entry Process failed..
+11/19/2013 4:53:18 PM---Import Reading files Process Completed....
+11/19/2013 4:53:18 PM---Document Creation Processing...
+11/19/2013 5:06:36 PM---Creating Journal Entries..
+11/19/2013 5:06:36 PM---Journal Ref Number : 16108
+11/19/2013 5:06:37 PM---Journal Ref Number : 16108 Imported Successfully : JE Ref No : 20
+11/19/2013 5:06:37 PM---Journal Ref Number : 16109
+11/19/2013 5:06:37 PM---Journal Ref Number : 16109 Imported Successfully : JE Ref No : 21
+11/19/2013 5:06:37 PM---Journal Ref Number : 16110
+11/19/2013 5:06:37 PM---Journal Ref Number : 16110 Imported Successfully : JE Ref No : 22
+11/19/2013 5:06:37 PM---Journal Ref Number : 16111
+11/19/2013 5:06:37 PM---Journal Ref Number : 16111 Imported Successfully : JE Ref No : 23
+11/19/2013 5:06:37 PM---Journal Ref Number : 16112
+11/19/2013 5:06:37 PM---Journal Ref Number : 16112 Imported Successfully : JE Ref No : 24
+11/19/2013 5:06:37 PM---Journal Ref Number : 16113
+11/19/2013 5:06:37 PM---Journal Ref Number : 16113 Imported Successfully : JE Ref No : 25
+11/19/2013 5:06:37 PM---Journal Ref Number : 16114
+11/19/2013 5:06:37 PM---Journal Ref Number : 16114 Imported Successfully : JE Ref No : 26
+11/19/2013 5:06:37 PM---Journal Ref Number : 16115
+11/19/2013 5:06:42 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:06:42 PM---Journal Ref Number : 16115
+11/19/2013 5:06:44 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:06:44 PM---Journel Entry Process failed..
+11/19/2013 5:06:44 PM---Reading Shipment File Processing...File Name : Succ.txt
+11/19/2013 5:06:45 PM---Reading  Process Completed..
+11/19/2013 5:06:45 PM---Reading Process Completed: Filename-->Succ.txt Moved to success folder
+11/19/2013 5:06:45 PM---Creating Journal Entries..
+11/19/2013 5:06:45 PM---Journal Ref Number : 16101
+11/19/2013 5:06:45 PM---Journal Ref Number : 16101 Imported Successfully : JE Ref No : 27
+11/19/2013 5:06:45 PM---Journal Ref Number : 16102
+11/19/2013 5:06:45 PM---Journal Ref Number : 16102 Imported Successfully : JE Ref No : 28
+11/19/2013 5:06:45 PM---Journal Ref Number : 16103
+11/19/2013 5:06:45 PM---Journal Ref Number : 16103 Imported Successfully : JE Ref No : 29
+11/19/2013 5:06:45 PM---Journal Ref Number : 16104
+11/19/2013 5:06:45 PM---Journal Ref Number : 16104 Imported Successfully : JE Ref No : 30
+11/19/2013 5:06:45 PM---Journal Ref Number : 16105
+11/19/2013 5:06:45 PM---Journal Ref Number : 16105 Imported Successfully : JE Ref No : 31
+11/19/2013 5:06:45 PM---Journal Ref Number : 16106
+11/19/2013 5:06:45 PM---Journal Ref Number : 16106 Imported Successfully : JE Ref No : 32
+11/19/2013 5:06:45 PM---Journal Ref Number : 16107
+11/19/2013 5:06:45 PM---Journal Ref Number : 16107 Imported Successfully : JE Ref No : 33
+11/19/2013 5:06:45 PM---Journal Ref Number : 16115
+11/19/2013 5:06:46 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:06:46 PM---Journal Ref Number : 16115
+11/19/2013 5:06:47 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:06:47 PM---Journel Entry Process failed..
+11/19/2013 5:06:47 PM---Reading Shipment File Processing...File Name : SUN&SAP - Copy.txt
+11/19/2013 5:06:47 PM---Already Imported Jurnel Number : 16101
+11/19/2013 5:06:47 PM---Already Imported Jurnel Number : 16101
+11/19/2013 5:06:47 PM---Already Imported Jurnel Number : 16102
+11/19/2013 5:06:47 PM---Already Imported Jurnel Number : 16102
+11/19/2013 5:06:47 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:47 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:47 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:47 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:47 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:47 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16103
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16104
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16104
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16105
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16105
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16106
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16106
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16107
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16108
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16108
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16108
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16108
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16109
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16109
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16110
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16110
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16111
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16111
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16112
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16112
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16113
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16113
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16114
+11/19/2013 5:06:48 PM---Already Imported Jurnel Number : 16114
+11/19/2013 5:06:49 PM---Reading  Process Completed..
+11/19/2013 5:06:49 PM---Reading Process Completed: Filename-->SUN&SAP - Copy.txt Moved to success folder
+11/19/2013 5:06:49 PM---Creating Journal Entries..
+11/19/2013 5:06:49 PM---Journal Ref Number : 16115
+11/19/2013 5:06:50 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:06:50 PM---Journal Ref Number : 16115
+11/19/2013 5:06:50 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:06:50 PM---Journel Entry Process failed..
+11/19/2013 5:06:50 PM---Import Reading files Process Completed....
+11/19/2013 5:06:50 PM---Document Creation Processing...
+11/19/2013 5:13:25 PM---Creating Journal Entries..
+11/19/2013 5:13:25 PM---Journal Ref Number : 16115
+11/19/2013 5:13:26 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:13:26 PM---Journal Ref Number : 16115
+11/19/2013 5:13:28 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:13:31 PM---Journel Entry Process failed..
+11/19/2013 5:13:32 PM---Import Reading files Process Completed....
+11/19/2013 5:13:32 PM---Document Creation Processing...
+11/19/2013 5:21:31 PM---Creating Journal Entries..
+11/19/2013 5:21:31 PM---Journal Ref Number : 16115
+11/19/2013 5:21:35 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:21:35 PM---Journal Ref Number : 16115
+11/19/2013 5:21:36 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:21:36 PM---Journel Entry Process failed..
+11/19/2013 5:21:36 PM---Import Reading files Process Completed....
+11/19/2013 5:21:36 PM---Document Creation Processing...
+11/19/2013 5:55:16 PM---Creating Journal Entries..
+11/19/2013 5:55:16 PM---Journal Ref Number : 16115
+11/19/2013 5:55:16 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:55:16 PM---Journal Ref Number : 16115
+11/19/2013 5:55:16 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 5:55:16 PM---Journel Entry Process failed..
+11/19/2013 5:55:16 PM---Import Reading files Process Completed....
+11/19/2013 5:55:16 PM---Document Creation Processing...
+11/19/2013 6:02:09 PM---Creating Journal Entries..
+11/19/2013 6:02:09 PM---Journal Ref Number : 16115
+11/19/2013 6:02:09 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 6:02:09 PM---Journal Ref Number : 16115
+11/19/2013 6:02:09 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 6:02:09 PM---Journel Entry Process failed..
+11/19/2013 6:02:09 PM---Import Reading files Process Completed....
+11/19/2013 6:02:09 PM---Document Creation Processing...
+11/19/2013 6:06:14 PM---Creating Journal Entries..
+11/19/2013 6:06:14 PM---Journal Ref Number : 16115
+11/19/2013 6:06:14 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 6:06:14 PM---Journal Ref Number : 16115
+11/19/2013 6:06:15 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 6:06:15 PM---Journel Entry Process failed..
+11/19/2013 6:06:15 PM---Import Reading files Process Completed....
+11/19/2013 6:06:15 PM---Document Creation Processing...
+11/19/2013 6:08:06 PM---Creating Journal Entries..
+11/19/2013 6:08:06 PM---Journal Ref Number : 16115
+11/19/2013 6:08:06 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 6:08:06 PM---Journal Ref Number : 16115
+11/19/2013 6:08:06 PM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/19/2013 6:08:06 PM---Journel Entry Process failed..
+11/19/2013 6:08:06 PM---Import Reading files Process Completed....
+11/19/2013 6:08:06 PM---Document Creation Processing...
+11/20/2013 11:05:47 AM---Creating Journal Entries..
+11/20/2013 11:05:47 AM---Journal Ref Number : 16115
+11/20/2013 11:05:48 AM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/20/2013 11:05:48 AM---Journal Ref Number : 16115
+11/20/2013 11:05:48 AM---Journal Ref Number : 16115 Error : Unbalanced Transaction
+11/20/2013 11:05:48 AM---Journel Entry Process failed..
+11/20/2013 11:05:48 AM---Import Reading files Process Completed....
+11/20/2013 11:05:48 AM---Document Creation Processing...
+11/20/2013 4:44:47 PM---Creating Journal Entries..
+11/20/2013 4:44:47 PM---Journal Ref Number : 16101
+11/20/2013 4:44:47 PM---Journal Ref Number : 16101 Imported Successfully : JE Ref No : 34
+11/20/2013 4:44:48 PM---Journal Ref Number : 16102
+11/20/2013 4:44:48 PM---Journal Ref Number : 16102 Imported Successfully : JE Ref No : 35
+11/20/2013 4:44:48 PM---Journal Ref Number : 16103
+11/20/2013 4:44:48 PM---Journal Ref Number : 16103 Imported Successfully : JE Ref No : 36
+11/20/2013 4:44:48 PM---Journal Ref Number : 16104
+11/20/2013 4:44:48 PM---Journal Ref Number : 16104 Imported Successfully : JE Ref No : 37
+11/20/2013 4:44:48 PM---Journal Ref Number : 16105
+11/20/2013 4:44:48 PM---Journal Ref Number : 16105 Imported Successfully : JE Ref No : 38
+11/20/2013 4:44:48 PM---Journal Ref Number : 16106
+11/20/2013 4:44:48 PM---Journal Ref Number : 16106 Imported Successfully : JE Ref No : 39
+11/20/2013 4:44:48 PM---Journal Ref Number : 16107
+11/20/2013 4:44:48 PM---Journal Ref Number : 16107 Imported Successfully : JE Ref No : 40
+11/20/2013 4:44:48 PM---Journel Entry Process Completed..
+11/20/2013 4:44:48 PM---Import Reading files Process Completed....
+11/20/2013 4:44:48 PM---Document Creation Processing...
+11/20/2013 4:47:53 PM---Creating Journal Entries..
+11/20/2013 4:47:53 PM---Journal Ref Number : 16101
+11/20/2013 4:47:53 PM---Journal Ref Number : 16101 Imported Successfully : JE Ref No : 41
+11/20/2013 4:47:53 PM---Journal Ref Number : 16102
+11/20/2013 4:47:53 PM---Journal Ref Number : 16102 Imported Successfully : JE Ref No : 42
+11/20/2013 4:47:53 PM---Journal Ref Number : 16103
+11/20/2013 4:47:54 PM---Journal Ref Number : 16103 Imported Successfully : JE Ref No : 43
+11/20/2013 4:47:54 PM---Journal Ref Number : 16104
+11/20/2013 4:47:54 PM---Journal Ref Number : 16104 Imported Successfully : JE Ref No : 44
+11/20/2013 4:47:54 PM---Journal Ref Number : 16105
+11/20/2013 4:47:54 PM---Journal Ref Number : 16105 Imported Successfully : JE Ref No : 45
+11/20/2013 4:47:54 PM---Journal Ref Number : 16106
+11/20/2013 4:47:54 PM---Journal Ref Number : 16106 Imported Successfully : JE Ref No : 46
+11/20/2013 4:47:54 PM---Journal Ref Number : 16107
+11/20/2013 4:47:54 PM---Journal Ref Number : 16107 Imported Successfully : JE Ref No : 47
+11/20/2013 4:47:54 PM---Journel Entry Process Completed..
+11/20/2013 4:47:54 PM---Import Reading files Process Completed....
+11/20/2013 4:47:54 PM---Document Creation Processing...
+20/11/2013 5:37:37 PM---Creating Journal Entries..
+20/11/2013 5:37:37 PM---Journel Entry Process Completed..
+20/11/2013 5:37:39 PM---Import Reading files Process Completed....
+20/11/2013 5:37:39 PM---Document Creation Processing...

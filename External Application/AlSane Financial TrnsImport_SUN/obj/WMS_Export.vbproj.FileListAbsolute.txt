@@ -1,0 +1,110 @@
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export\obj\Debug\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export\obj\Debug\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export\obj\Debug\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export\obj\Debug\WMS_Export.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export\obj\Debug\WMS_Export.frmLoginScreen.resources
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export\obj\Debug\WMS_Export.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\Outbound\20110326_WMS Export\WMS_Export_20110326\obj\Debug\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\Outbound\20110326_WMS Export\WMS_Export_20110326\obj\Debug\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\Outbound\20110326_WMS Export\WMS_Export_20110326\obj\Debug\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export_20110326\obj\Debug\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export_20110326\obj\Debug\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export_20110326\obj\Debug\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export_20110326\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export_20110326\obj\Debug\WMS_Export.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export_20110326\obj\Debug\WMS_Export.frmLoginScreen.resources
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\WMS_Export_20110326\obj\Debug\WMS_Export.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\obj\Debug\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\obj\Debug\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\obj\Debug\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\bin\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\bin\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\bin\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\obj\Debug\WMS_Export.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\obj\Debug\WMS_Export.frmLoginScreen.resources
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\Delivery\20110920_WMS Export\WMS_Export_20110920\obj\Debug\WMS_Export.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\obj\Debug\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\obj\Debug\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\obj\Debug\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\bin\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\bin\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\bin\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\obj\Debug\WMS_Export.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\obj\Debug\WMS_Export.frmLoginScreen.resources
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20110921\obj\Debug\WMS_Export.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111018\obj\Debug\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111018\obj\Debug\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111018\obj\Debug\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\obj\Debug\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\obj\Debug\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\obj\Debug\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\bin\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\bin\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\bin\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\obj\Debug\WMS_Export.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\obj\Debug\WMS_Export.frmLoginScreen.resources
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111021\obj\Debug\WMS_Export.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_2011206\obj\Debug\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_2011206\obj\Debug\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_2011206\obj\Debug\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\obj\Debug\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\obj\Debug\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\obj\Debug\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\bin\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\bin\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\bin\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\obj\Debug\WMS_Export.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\obj\Debug\WMS_Export.frmLoginScreen.resources
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111206\obj\Debug\WMS_Export.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\obj\Debug\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\obj\Debug\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\obj\Debug\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\bin\WMS_Export.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\bin\WMS_Export.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\bin\WMS_Export.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\obj\Debug\WMS_Export.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\obj\Debug\WMS_Export.frmLoginScreen.resources
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\Deliveries_external\WMS_Export_20111207\obj\Debug\WMS_Export.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\obj\Debug\WMS_Export.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\obj\Debug\WMS_Export.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\bin\WMS Implementation_Export.exe
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\bin\WMS Implementation_Export.pdb
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\bin\WMS Implementation_Export.xml
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\obj\Debug\WMS_Implementation_Export.frmLoginScreen.resources
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\obj\Debug\WMS Implementation_Export.exe
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\obj\Debug\WMS Implementation_Export.xml
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS_Export\obj\Debug\WMS Implementation_Export.pdb
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS Import\obj\Debug\WMS Implementation_Export.exe
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS Import\obj\Debug\WMS Implementation_Export.xml
+E:\InterNational Business Projects\Procons-4it\WMS Implementation\External Applications\WMS Import\obj\Debug\WMS Implementation_Export.pdb

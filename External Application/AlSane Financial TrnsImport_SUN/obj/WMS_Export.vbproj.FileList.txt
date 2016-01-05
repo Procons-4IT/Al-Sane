@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.SAPbobsCOM.dll
+obj\Debug\Interop.SAPbouiCOM.dll
+obj\Debug\WMS_Export.vbproj.ResolveComReference.cache
+obj\Debug\WMS_Export.frmLoginScreen.resources
+obj\Debug\WMS_Export.vbproj.GenerateResource.Cache
+bin\WMS_Export.exe
+bin\WMS_Export.pdb
+bin\WMS_Export.xml
+bin\Interop.SAPbobsCOM.dll
+bin\Interop.SAPbouiCOM.dll
+obj\Debug\WMS_Export.exe
+obj\Debug\WMS_Export.xml
+obj\Debug\WMS_Export.pdb

@@ -1,0 +1,17 @@
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\bin\POCustomization_External.exe
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\bin\POCustomization_External.pdb
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\bin\POCustomization_External.xml
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\bin\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\bin\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\obj\Debug\POCustomization_External.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\obj\Debug\POCustomization_External.frmLoginScreen.resources
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\obj\Debug\POCustomization_External.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\obj\Debug\POCustomization_External.exe
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\obj\Debug\POCustomization_External.xml
+E:\InterNational Business Projects\Geroge\Databest_Ref01_Production Customization\External Program\POCustomization_External\obj\Debug\POCustomization_External.pdb
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\POCustomization_External\obj\Debug\POCustomization_External.exe
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\POCustomization_External\obj\Debug\POCustomization_External.xml
+E:\InterNational Business Projects\Abijit\Mobileistic-Ref 001\External Programing\POCustomization_External\obj\Debug\POCustomization_External.pdb
